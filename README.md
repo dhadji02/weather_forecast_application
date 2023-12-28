@@ -17,4 +17,4 @@ made.
 This tab, also contains a button named "Learn about air quality data" which opens a Modal which has a table that provides definitions about the different indexes and pollutants for the user's knowledge. The values of air quality index, particulate matter and risk of harm from UV exposure, are colored to a certain colour that 
 represents the level of health concern.
 
-The database connection functionality can work only if the 
+The database connection functionality can work only if the webpage is hosted on a web server.
