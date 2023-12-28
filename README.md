@@ -1,6 +1,7 @@
 **Weather Forecast Web Application (HTML/CSS/JAVASCRIPT/PHP/MYSQL)**
 
 **04/2021**
+
 **Author:** Demetra Hadjicosti - dhadji02
 **Files:**  index.html, ScriptWeather.js, StyleWeather.css, act.php
 
