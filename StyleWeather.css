@@ -1,0 +1,149 @@
+﻿body {
+    background: url('https://i.pinimg.com/originals/e2/f1/7b/e2f17b36272465bb0584d6a35bc9dadf.jpg') no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+#weatherHeader {
+    text-align: center;
+    color: white;
+    padding-top: 2em;
+    font-size: 20px;
+}
+
+#infoTable {
+    text-align: center;
+}
+
+#airq {
+    margin: auto;
+    padding-bottom: 2em;
+}
+
+#formall {
+    width: 90%;
+}
+
+.aq {
+    font-weight: bold;
+    padding-top: 1.5em;
+}
+
+.images {
+    height: 42px;
+    width: 42px;
+}
+
+#currentTable,
+#airTable {
+    margin: auto;
+    text-align: center;
+    border: solid lightgray;
+}
+
+#buttonInfo {
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#airForecast,
+#airUv {
+    margin: auto;
+    text-align: center;
+    border: solid lightgray;
+}
+
+#nextTable {
+    text-align: center;
+    margin: auto;
+}
+
+.alignH {
+    text-align: center;
+}
+
+#tableLog {
+    text-align: center;
+}
+
+#formid {
+    background: rgba(255, 255, 255, 0.3);
+    padding: 2em;
+}
+
+#tempL {
+    color: blue;
+    display: inline;
+}
+
+#tempH {
+    color: red;
+    display: inline;
+}
+
+#description {
+    padding-top: 1em;
+}
+
+.rowModal {
+    font-weight: bold;
+}
+
+#modalTable {
+    text-align: center;
+    margin: auto;
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+    float: right;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#icon {
+    height: 120px;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+#tableHeader {
+    text-align: center;
+    padding-right: 2.5em;
+}
+
+.nav-tabs .nav-item .nav-link {
+    background-color: #0d6efd;
+    color: #FFF;
+    width: 100%;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    color: #0d6efd;
+    background-color: #FFF;
+    width: 100%;
+}
+
+#navbar {
+    padding-top: 2em;
+}
+
+#buttons {
+    padding-top: 2em;
+}
+
+#weather,
+#next24,
+#airq {
+    background: white;
+}
+
+#address:after,
+#region:after,
+#city:after,
+#degree:after {
+    color: red;
+    content: "*";
+}
